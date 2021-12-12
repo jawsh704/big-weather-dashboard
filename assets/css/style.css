@@ -1,0 +1,25 @@
+#searchDiv {
+    background-color: aqua;
+    width: 25%;
+    float: left;
+    height: 450px;;
+} 
+
+#forecastDiv {
+    background-color: bisque;
+    width: 75%;
+    height: 225px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#forecastDiv.div {
+    width: 100px;
+}
+
+#mainDiv {
+    background-color: lightblue;
+    width: 75%;
+    height: 225px;
+    display: flex;
+}
